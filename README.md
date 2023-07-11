@@ -22,4 +22,6 @@ GIVEN a weather dashboard with form inputs
 - HTML
 - CSS
 - JavaScript 
-- API 
+- API
+- jQuery
+- Bootstrap
